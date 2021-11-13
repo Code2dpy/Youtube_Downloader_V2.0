@@ -13,7 +13,7 @@
 
 4.After choosing the destination it will open a window with all the videos from YouTube.You can click the *Download* button of any video you want
 
-5.While downloading it will also show to stats.
+5.While downloading it will also show the stats.
 
 # Download
 Download the .exe file from this repo and open it.
